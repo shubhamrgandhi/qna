@@ -26,7 +26,8 @@ class Header extends Component{
                         <div className="row row-header">
                             <div className="col-12 col-sm-6">
                                 <h1>QMe ?</h1>
-                                <p>We shall be the ones asking questions!</p>          
+                                <p>We shall be the ones asking questions!</p>
+                                <p>--Shubham Gandhi</p>          
                             </div>
                         </div>
                     </div>
